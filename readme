@@ -1,0 +1,32 @@
+
+This is a simple and interactive Quiz Application developed using React.js. It allows users to attempt multiple-choice questions, get instant feedback on their answers, and view their final score at the end of the quiz.
+
+## 🚀 Features
+
+- ✅ Multiple-choice questions
+- ✅ Answer validation (correct/wrong highlighting)
+- ✅ Score tracking
+- ✅ Next question navigation
+- ✅ Final result screen
+- ✅ Restart quiz option
+- ✅ Clean and responsive UI
+
+## 🛠️ Tech Stack
+
+- React.js
+- JavaScript (ES6)
+- CSS
+
+## 📚 Concepts Used
+
+- React Functional Components
+- useState Hook
+- Event Handling
+- Conditional Rendering
+- Dynamic UI updates
+
+## ▶️ How to Run
+
+```bash
+npm install
+npm run dev
